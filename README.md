@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data and Web Development
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 💞️ I’m looking to collaborate on various project that involves Big Data and Web Development
-- 📫 Contact me through email: wanahmadfahim828@gmail.com
+- 📫 Contact me via email: wanahmadfahim828@gmail.com
 - ⚡ Fun fact: I love to use data to make informed decisions
 
 <!---
