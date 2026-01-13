@@ -20,5 +20,4 @@ I'm a Data Engineer specializing in building scalable ETL/ELT pipelines and clou
 - LinkedIn: [Wan Ahmad Fahim](https://www.linkedin.com/in/wan-ahmad-fahim-935248233/)
 - Email: wanahmadfahim828@gmail.com
 
-### 📊 GitHub Stats
-![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravager1204&show_icons=true&theme=radical)
+
