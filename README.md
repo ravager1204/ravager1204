@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @ravager1204
-- 👀 I’m interested in Big Data and Web Development
-- 🌱 I’m currently learning Data Science and Data Engineering
-- 💞️ I’m looking to collaborate on various project that involves Big Data and Web Development
-- 📫 Contact me via email: wanahmadfahim828@gmail.com
-- ⚡ Fun fact: I love to use data to make informed decisions
+# Hi, I'm Fahim! 👋
 
-<!---
-ravager1204/ravager1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Data Engineer | Analytics Specialist
+
+I'm a Data Engineer specializing in building scalable ETL/ELT pipelines and cloud data solutions. Passionate about turning data into actionable insights.
+
+### 🛠️ Tech Stack
+- **Data Engineering:** DBT, Snowflake, SSIS, SQL, Jinja
+- **Programming:** Python, SQL, R, Java
+- **Cloud & Tools:** AWS (S3, Glue, Redshift), Tableau, Power BI
+- **ML/AI:** LSTM, Random Forest, XGBoost, scikit-learn
+
+### 🔭 Current Focus
+- Building end-to-end data pipelines
+- Machine learning for forecasting
+- Cloud data architecture
+
+### 📫 Connect With Me
+- Portfolio: [ravager1204.github.io](https://ravager1204.github.io)
+- LinkedIn: [Wan Ahmad Fahim](https://www.linkedin.com/in/wan-ahmad-fahim-935248233/)
+- Email: wanahmadfahim828@gmail.com
+
+### 📊 GitHub Stats
+![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravager1204&show_icons=true&theme=radical)
