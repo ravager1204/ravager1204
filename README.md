@@ -32,7 +32,7 @@ Git • Agile Scrum • Version Control
 
 ## 🚀 What I'm Working On
 
-- Building end-to-end data pipelines with DBT and Snowflake
+- Building end-to-end data pipelines with DBT
 - Exploring advanced ML forecasting techniques (LSTM, XGBoost)
 - Developing cloud-native data architectures on AWS
 - Creating interactive data visualizations and dashboards
