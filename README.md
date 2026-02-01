@@ -4,7 +4,6 @@
 
 I'm a Data Engineer specializing in building scalable **ETL/ELT pipelines** and **cloud data solutions**. Passionate about turning complex data into actionable insights that drive business decisions.
 
-Currently working with modern data stack technologies to build robust data infrastructure for healthcare and FinTech applications.
 
 ---
 
